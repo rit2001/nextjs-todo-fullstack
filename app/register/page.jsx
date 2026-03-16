@@ -3,7 +3,7 @@
 
 import React,{useContext, useState} from 'react'
 import Link from 'next/link'
-import { Context } from '../../components/Clientsc';
+import { Context } from '../../components/Clients';
 import toast from 'react-hot-toast';
 import { redirect } from 'next/navigation';
 
